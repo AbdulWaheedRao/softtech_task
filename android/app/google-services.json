@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507809714849",
+    "project_id": "softtech-e56bf",
+    "storage_bucket": "softtech-e56bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507809714849:android:2c236e2728328373fa16e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_softtech_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT6A60JlLJlJTFL-vCJcFzNmheNZLwmbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
